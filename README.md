@@ -46,7 +46,7 @@ PCA and t-SNE visualization
 
 Create a final, interpretable report summarizing key findings and actionable insights.
 
-## 🧠 Key Findings 
+## 🧠 Results 
 
 Logistic regression with threshold identifies ~74% of true subscribers.
 
