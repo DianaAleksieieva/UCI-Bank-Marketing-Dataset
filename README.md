@@ -8,16 +8,16 @@ The goal is to understand both customer-level behavior and macroeconomic conditi
 ## 📁 Project Structure
 ALEKSIEIEVA_DIANA_MINIPROJECT
 
-requirements.txt #files for installing all required libraries
+requirements.txt - files for installing all required libraries
 
-scratch/  # Drafts 
+scratch/  - Drafts 
 
-scratch/data-processing-eda.ipynb    # Notebook for cleaning, preprocessing, and EDA
-scratch/modeling.ipynb               # Notebook for logistic regression, K-Means, t-SNE, metrics
+scratch/data-processing-eda.ipynb    - Notebook for cleaning, preprocessing, and EDA
+scratch/modeling.ipynb               - Notebook for logistic regression, K-Means, t-SNE, metrics
         
-final-report.ipynb                  # Narrative-style report with plots & conclusions
+final-report.ipynb                 - Narrative-style report with plots & conclusions
 
-README.md                           # Project documentation
+README.md                           - Project documentation
 
 ## 📊 Project Objectives
 
@@ -67,7 +67,7 @@ A key limitation is that the data covers only the recession period, which strong
 
 1. Clone the repository
 
-git clone ....
+git clone https://github.com/DianaAleksieieva/UCI-Bank-Marketing-Dataset.git
 cd ALEKSIEIEVA_DIANA_MINIPROJECT
 
 2. Install dependencies
