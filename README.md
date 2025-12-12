@@ -6,27 +6,18 @@ The work includes exploratory data analysis (EDA), feature preprocessing, logist
 The goal is to understand both customer-level behavior and macroeconomic conditions that influence subscription decisions, and to build interpretable models that support targeted marketing strategies.
 
 ## 📁 Project Structure
-ALEKSIEIEVA_DIANA_MINIPROJECT/
-│── requirements.txt #files for installing all required libraries
-├── data/ #data from Source
-│   └── bank-additional/ 
-│       ├── bank-additional-full.csv       
-│       ├── bank-additional.csv            # used in analysis
-│       ├── bank-additional-names.txt     
-│       └── .Rhistory                        
-│
-├── scratch/                                 # Drafts 
-│
-├── papers/
-│   └── dss_v3.pdf                           # Reference paper from dataset page
-│
-├── data-processing-eda.ipynb                # Notebook for cleaning, preprocessing, and EDA
-├── modeling.ipynb                           # Notebook for logistic regression, K-Means, t-SNE, metrics
-├── Mini-project_Check-list.pdf              
-├── final-report.ipynb                       # Narrative-style report with plots & conclusions
-├── presentation			     # Folder with final presentation and plots images
-│
-└── README.md                                # Project documentation
+ALEKSIEIEVA_DIANA_MINIPROJECT
+
+requirements.txt #files for installing all required libraries
+
+scratch/  # Drafts 
+
+scratch/data-processing-eda.ipynb    # Notebook for cleaning, preprocessing, and EDA
+scratch/modeling.ipynb               # Notebook for logistic regression, K-Means, t-SNE, metrics
+        
+final-report.ipynb                  # Narrative-style report with plots & conclusions
+
+README.md                           # Project documentation
 
 ## 📊 Project Objectives
 
