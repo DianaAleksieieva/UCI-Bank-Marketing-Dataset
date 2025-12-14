@@ -68,10 +68,7 @@ A key limitation is that the data covers only the recession period, which strong
 1. Clone the repository
 
 git clone https://github.com/DianaAleksieieva/UCI-Bank-Marketing-Dataset.git
-<<<<<<< HEAD:README.md
 
-=======
->>>>>>> 9eaa910 (split correction):README.md 
 cd ALEKSIEIEVA_DIANA_MINIPROJECT
 
 2. Install dependencies
