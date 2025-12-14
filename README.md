@@ -1,4 +1,4 @@
-# Bank Marketing Campaign Analysis — Mini Project
+# Bank Marketing Campaign Analysis. Mini Project
 
 This project analyzes the UCI Bank Marketing Dataset to identify which customers are most likely to subscribe to a term deposit. 
 The work includes exploratory data analysis (EDA), feature preprocessing, logistic regression modeling, clustering using K-Means, t-SNE visualization, and a final narrative report.
@@ -68,7 +68,10 @@ A key limitation is that the data covers only the recession period, which strong
 1. Clone the repository
 
 git clone https://github.com/DianaAleksieieva/UCI-Bank-Marketing-Dataset.git
+<<<<<<< HEAD:README.md
 
+=======
+>>>>>>> 9eaa910 (split correction):README.md 
 cd ALEKSIEIEVA_DIANA_MINIPROJECT
 
 2. Install dependencies
